@@ -1,17 +1,17 @@
 nav:
-  - title: "Services"
+  - title: "quienes somos"
     section: services
 
-  - title: "Portfolio"
+  - title: "por que elegirnos"
     section: portfolio
     
-  - title: "About"
+  - title: "entrenamiento personalizado"
     section: timeline
 
-  - title: "Team"
+  - title: "garantia"
     section: team
 
-  - title: "Contact"
+  - title: "horarios"
     section: contact
 
   - title: "Theme Source"
