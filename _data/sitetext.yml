@@ -1,8 +1,8 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: bienvenido futuro campeon!
+    text: un paso hacia la vida fitnest 
+  
+    buttonlink: "#servicios"
 
 services:
     title: "Services"
